@@ -2,6 +2,7 @@
     margin:0;
     font-family:Arial;
     border:border-box;
+    background-repeat:no repeat;
 }
 .navbar{
     height:60px;
@@ -228,7 +229,5 @@ ul{
         padding-top: 5px;
 
     }
-*{
-background-repeat:no repeat;
-}
+
 
